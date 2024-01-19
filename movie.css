@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&family=Poppins:wght@300&family=Roboto&display=swap');
+
+
+body{
+  background-image: url("https://source.unsplash.com/random/?forest,night");
+
+  font-family: 'Playpen Sans', cursive;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation{
+  display: flex;
+  border-bottom: 1px solid #FFFFFFAD;
+  position: fixed;
+  padding-right: 245px;
+  backdrop-filter: blur(20px);
+  padding-top: 15px;
+}
+
+.navigation img{
+  width: 25px;
+  height: 25px;
+}
+
+.navigation h2{
+  margin-top: -5px;
+  margin-left: 10px;
+}
+
+.movie #main_info img{
+  width: 120px;
+  height: 188px;
+  border-radius: 20px;
+}
+.movie #main_info {
+  display: flex;
+  margin: 5px;
+  background: #8C8C8C75;
+  padding: 5px;
+  border-radius: 15px;
+}
+.movie #main_info h4{
+  margin: 5px;
+  margin-top: 15px;
+}
+#info{
+  font-size: 10px;
+}
+#more_info{
+  background: #56565673;
+  padding: 5px;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+
+#movi{
+  border: none;
+  border-radius: 10px;
+}
