@@ -120,7 +120,7 @@ button {
   backdrop-filter: blur(20px);
   border: 1px solid #B9B9B99C;
   position: fixed;
-  margin-top: -143vh;
+  margin-top: -140vh;
   transition: 0.5s;
 }
 
