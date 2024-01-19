@@ -86,62 +86,62 @@ async function hdata() {
     document.getElementById('watchNowM').addEventListener('click', () => {
       search = 'puss in boots';
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
 
     document.getElementById('one').addEventListener('click', () => {
       search = data.data.movies[0].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('two').addEventListener('click', () => {
       search = data.data.movies[4].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('three').addEventListener('click', () => {
       search = data.data.movies[7].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('four').addEventListener('click', () => {
       search = data.data.movies[8].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('five').addEventListener('click', () => {
       search = data.data.movies[9].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('six').addEventListener('click', () => {
       search = data.data.movies[10].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('seven').addEventListener('click', () => {
       search = data.data.movies[11].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('eight').addEventListener('click', () => {
       search = data.data.movies[12].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
     
     document.getElementById('nine').addEventListener('click', () => {
       search = data.data.movies[13].title;
       localStorage.setItem('Ysearch', search)
-      window.location.href = '/movie/movie.html'
+      window.location.href = 'movie.html'
     });
    
     
