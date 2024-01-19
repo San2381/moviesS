@@ -38,6 +38,6 @@ fetchdata()
 let back_icon = document.getElementById('back');
 
 back_icon.addEventListener('click',()=>{
-  window.location.href = '/index.html';
+  window.location.href = 'index.html';
 })
 
