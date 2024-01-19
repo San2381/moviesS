@@ -33,7 +33,7 @@ let search;
 search_icon.addEventListener('click',()=>{
   search = search_input.value;
   localStorage.setItem('Ysearch',search)
-  window.location.href = 'movieS/movie.html'
+  window.location.href = 'moviesS/movie.html'
 })
 
 //https://m.youtube.com/watch?v=uwmDH12MAA4;
